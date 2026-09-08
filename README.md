@@ -3,6 +3,9 @@
 ### 1.1 测量系统
     - OMM合理波动范围：1.5条
     - CMM合理波动范围：1条以内
+### 1.2 ROHS标准
+    <img width="842" height="117" alt="mmexport1788763397015" src="https://github.com/user-attachments/assets/01b954a8-391f-4c48-906e-57c3bc4b3722" />
+
 ## 第一章 六西格玛管理概论
 ### 1.1 六西格玛管理的发展
 
